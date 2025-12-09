@@ -1,0 +1,1 @@
+This repository contains a glossary that explores and redefines scientific terminology through a rhetorical lens. Each term is defined in its scientific context and then analyzed for its rhetorical significance, showing how concepts from biology and chemistry can be applied to understanding persuasive communication.
